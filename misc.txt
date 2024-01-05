@@ -1,3 +1,7 @@
 device=lancelot
-build_number=V13.0.2.0.SJCMIXM
+build_number=V13.SJCMIXM
 userdata_version=20221115.0000.00
+add 
+167728
+readmikk
+fired 
